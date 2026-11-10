@@ -84,6 +84,11 @@ a:hover {
   color: var(--color-blue);
 }
 
+.contact-list a {
+  color: var(--color-blue);
+  text-decoration: none;
+}
+
 button,
 summary {
   font: inherit;
